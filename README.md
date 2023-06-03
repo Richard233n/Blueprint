@@ -1,2 +1,2 @@
-# AboutDysp
-这里有我整理的关于戴森球的一切
+# About Blueprint
+戴森球蓝图的制作与备份
